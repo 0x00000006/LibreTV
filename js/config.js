@@ -152,16 +152,6 @@ const API_SITES = {
         name: '奶香',
         adult: true
     },
-    jiujiu: {
-        api: 'https://www.jiujiure00.com/api.php/provide/vod',
-        name: '久久',
-        adult: true
-    },
-    caoliu: {
-        api: 'https://www.caoliuzyw.com/api.php/prodao/vod',
-        name: '草榴',
-        adult: true
-    },
     didi: {
         api: 'https://api.ddapi.cc/api.php/provide/vod',
         name: '滴滴',
@@ -170,11 +160,6 @@ const API_SITES = {
     xiangba: {
         api: 'https://xingba222.com/api.php/provide/vod',
         name: '杏吧',
-        adult: true
-    },
-    shayu: {
-        api: 'http://sybyapi.com/api.php/provide/vod',
-        name: '鲨鱼',
         adult: true
     },
     laose: {
