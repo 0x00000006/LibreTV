@@ -113,8 +113,73 @@ const API_SITES = {
         name: '量子资源站'
     },
     testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
+        api: 'https://apilj.com/api.php/provide/vod/at/json',
+        name: '辣椒',
+        adult: true
+    },
+    testSource: {
+        api: 'https://jkunzyapi.com/api.php/provide/vod',
+        name: 'jkun',
+        adult: true
+    },
+    testSource: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: '155',
+        adult: true
+    },
+    testSource: {
+        api: 'https://www.avre06.com/api.php/provide/vod',
+        name: '黄瓜',
+        adult: true
+    },
+    testSource: {
+        api: 'https://apiyutu.com/api.php/provide/vod',
+        name: '玉兔',
+        adult: true
+    },
+    testSource: {
+        api: 'https://www.jingpinx.com/api.php/provide/vod',
+        name: '精品',
+        adult: true
+    },
+    testSource: {
+        api: 'https://hsckzy888.com/api.php/provide/vod',
+        name: '黄色',
+        adult: true
+    },
+    testSource: {
+        api: 'https://Naixxzy.com/api.php/provide/vod',
+        name: '奶香',
+        adult: true
+    },
+    testSource: {
+        api: 'https://www.jiujiure00.com/api.php/provide/vod',
+        name: '久久',
+        adult: true
+    },
+    testSource: {
+        api: 'https://www.caoliuzyw.com/api.php/prodao/vod',
+        name: '草榴',
+        adult: true
+    },
+    testSource: {
+        api: 'https://api.ddapi.cc/api.php/provide/vod',
+        name: '滴滴',
+        adult: true
+    },
+    testSource: {
+        api: 'https://xingba222.com/api.php/provide/vod',
+        name: '杏吧',
+        adult: true
+    },
+    testSource: {
+        api: 'http://sybyapi.com/api.php/provide/vod',
+        name: '鲨鱼',
+        adult: true
+    },
+    testSource: {
+        api: 'https://apilsbzy1.com/api.php/provide/vod',
+        name: '老色',
         adult: true
     },
 };
