@@ -112,72 +112,72 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    testSource: {
+    lajiao: {
         api: 'https://apilj.com/api.php/provide/vod/at/json',
         name: '辣椒',
         adult: true
     },
-    testSource: {
+    jkun: {
         api: 'https://jkunzyapi.com/api.php/provide/vod',
         name: 'jkun',
         adult: true
     },
-    testSource: {
+    155: {
         api: 'https://155api.com/api.php/provide/vod',
         name: '155',
         adult: true
     },
-    testSource: {
+    huanggua: {
         api: 'https://www.avre06.com/api.php/provide/vod',
         name: '黄瓜',
         adult: true
     },
-    testSource: {
+    yutu: {
         api: 'https://apiyutu.com/api.php/provide/vod',
         name: '玉兔',
         adult: true
     },
-    testSource: {
+    jingpin: {
         api: 'https://www.jingpinx.com/api.php/provide/vod',
         name: '精品',
         adult: true
     },
-    testSource: {
+    huangse: {
         api: 'https://hsckzy888.com/api.php/provide/vod',
         name: '黄色',
         adult: true
     },
-    testSource: {
+    naixiang: {
         api: 'https://Naixxzy.com/api.php/provide/vod',
         name: '奶香',
         adult: true
     },
-    testSource: {
+    jiujiu: {
         api: 'https://www.jiujiure00.com/api.php/provide/vod',
         name: '久久',
         adult: true
     },
-    testSource: {
+    caoliu: {
         api: 'https://www.caoliuzyw.com/api.php/prodao/vod',
         name: '草榴',
         adult: true
     },
-    testSource: {
+    didi: {
         api: 'https://api.ddapi.cc/api.php/provide/vod',
         name: '滴滴',
         adult: true
     },
-    testSource: {
+    xiangba: {
         api: 'https://xingba222.com/api.php/provide/vod',
         name: '杏吧',
         adult: true
     },
-    testSource: {
+    shayu: {
         api: 'http://sybyapi.com/api.php/provide/vod',
         name: '鲨鱼',
         adult: true
     },
-    testSource: {
+    laose: {
         api: 'https://apilsbzy1.com/api.php/provide/vod',
         name: '老色',
         adult: true
