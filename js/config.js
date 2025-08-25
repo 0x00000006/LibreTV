@@ -167,6 +167,11 @@ const API_SITES = {
         name: '老色',
         adult: true
     },
+    soav: {
+        api: 'https://api.souavzy.vip/api.php/provide/vod/',
+        name: '搜啊v',
+        adult: true
+    },
 };
 
 // 定义合并方法
