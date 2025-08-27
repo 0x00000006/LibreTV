@@ -169,7 +169,7 @@ const API_SITES = {
     },
     soav: {
         api: 'https://api.souavzy.vip/api.php/provide/vod/',
-        name: '搜啊v',
+        name: '搜av',
         adult: true
     },
 };
